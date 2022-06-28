@@ -1,10 +1,10 @@
 # Alivio Model - Landing Page
 
-This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3).
+This is a Landing Page created with HTML e CSS using FIGMA design for training porpouses-  [Alivio Landing Page](https://www.figma.store/download/alivio-landing-page-for-figma/).
 
-# Frontend Mentor - Solução do website Turismo espacial
+# Alivio Modelo - Landing Page
 
-Esta é a solução para o [Desafio website de Turismo espacial do Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3).
+Esta é uma landing page criada com HTML e CSS para prática utilizando o design FIGMA [Alivio Landing Page](https://www.figma.store/download/alivio-landing-page-for-figma/).
 
 ## Table of contents
 
