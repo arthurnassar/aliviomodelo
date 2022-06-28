@@ -83,49 +83,13 @@ O usuário deverá ser capaz de:
 ##### ![CSS](./screenshots/icons/css3.png) CSS
 - Under Construction
 
-##### ![JS](./screenshots/icons/javascript.png) Javascript
-- Under Construction
-
-##### ![BOOTSTRAP](./screenshots/icons/bootstrap.png) [Bootstrap](https://getbootstrap.com/)
-- Under Construction
-
-##### ![SASS](./screenshots/icons/sass.png) [Sass](https://sass-lang.com)
-- Under Construction
-
-##### ![VUEJS](./screenshots/icons/vue.png) [Vuejs](https://vuejs.org/) 
-- Under Construction
-
-##### [Vue Router](https://router.vuejs.org/) Vue Router
-- Under Construction
-
-##### ![JSON](./screenshots/icons/file.png) JSON Files
-- Under Construction
-
 #### Habilidades 
+
 ##### ![HTML](./screenshots/icons/html.png) HTML
 - Em Construção
 
 ##### ![CSS](./screenshots/icons/css3.png) CSS
 - Em Construção
-
-##### ![JS](./screenshots/icons/javascript.png) Javascript
-- Em Construção
-
-##### ![BOOTSTRAP](./screenshots/icons/bootstrap.png) [Bootstrap](https://getbootstrap.com/)
-- Em Construção
-
-##### ![SASS](./screenshots/icons/sass.png) [Sass](https://sass-lang.com)
-- Em Construção
-
-##### ![VUEJS](./screenshots/icons/vue.png) [Vuejs](https://vuejs.org/)
-- Em Construção
-
-##### [Vue Router](https://router.vuejs.org/)
-- Em Construção
-
-##### ![JSON](./screenshots/icons/file.png) Arquivos JSON
-- Em Construção
-
 
 ### Useful resources
 
